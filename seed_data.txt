@@ -1,0 +1,5 @@
+1|Buy groceries|Get milk, eggs, bread, and vegetables from the store|Shopping|false|2025-01-05T09:30:00
+2|Complete homework|Finish cs homework|Work|false|2025-01-05T10:15:00
+3|Morning workout|30 minutes cardio at the gym|Health|true|2025-01-04T06:00:00
+4|Read chapter 5|Finish reading chapter 5 of book|Education|false|2025-01-05T14:20:00
+5|Meal prep for week|Prepare lunch meals for Monday through Friday|Health|true|2025-01-04T16:45:00
